@@ -1,0 +1,13 @@
+/* debug
+[class^="container"] {
+    border: 1px solid black;
+    min-height: 200px;
+    margin-bottom: 2rem;
+    border: none;
+}
+[class^="row"] {
+    min-height: 200px;
+}
+[class^="col"] {
+    min-height: 100px;
+} */
